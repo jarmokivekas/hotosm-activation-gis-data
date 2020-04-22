@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "yurimaguas-roads-2019-05-24_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2030372707", "osm_id": "2030372707", "osm_type": "node", "highway": "traffic_signals", "traffic_signals": "signal" }, "geometry": { "type": "Point", "coordinates": [ -76.1105792, -5.8956457 ] } }
+]
+}

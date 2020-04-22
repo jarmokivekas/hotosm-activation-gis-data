@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "yurimaguas-roads-2019-06-07_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2030372707", "osm_id": "2030372707", "osm_type": "node", "highway": "traffic_signals", "traffic_signals": "signal", "crossing": "", "crossing_ref": "" }, "geometry": { "type": "Point", "coordinates": [ -76.1105926, -5.895627 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6514855617", "osm_id": "6514855617", "osm_type": "node", "highway": "crossing", "traffic_signals": "", "crossing": "uncontrolled", "crossing_ref": "zebra" }, "geometry": { "type": "Point", "coordinates": [ -76.1144252, -5.8873521 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6514855618", "osm_id": "6514855618", "osm_type": "node", "highway": "crossing", "traffic_signals": "", "crossing": "uncontrolled", "crossing_ref": "zebra" }, "geometry": { "type": "Point", "coordinates": [ -76.1143381, -5.8874183 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6514855619", "osm_id": "6514855619", "osm_type": "node", "highway": "crossing", "traffic_signals": "", "crossing": "uncontrolled", "crossing_ref": "zebra" }, "geometry": { "type": "Point", "coordinates": [ -76.1142576, -5.8873584 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6514855620", "osm_id": "6514855620", "osm_type": "node", "highway": "crossing", "traffic_signals": "", "crossing": "uncontrolled", "crossing_ref": "zebra" }, "geometry": { "type": "Point", "coordinates": [ -76.1143348, -5.8872915 ] } }
+]
+}

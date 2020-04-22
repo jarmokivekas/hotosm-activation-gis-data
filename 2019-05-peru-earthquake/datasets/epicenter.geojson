@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "epicenter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Point", "coordinates": [ -8368999.317838307470083, -644520.776909923530184 ] } }
+]
+}

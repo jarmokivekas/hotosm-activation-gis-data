@@ -1,0 +1,5 @@
+**/*.zip
+**/*.qgz
+.pycache
+*.ipynb.pdf
+__pycache__

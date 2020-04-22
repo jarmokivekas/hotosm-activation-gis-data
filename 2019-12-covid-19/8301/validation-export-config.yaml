@@ -1,0 +1,18 @@
+planet_osm_point:
+  types:
+    - points
+  select:
+    - comment
+    - description
+    - note
+    - source
+    - fixme
+    - FIXME
+    - ele
+    - name
+    - ELE
+    - NAME
+    - place
+    - population
+  where:
+    - place IS NOT NULL

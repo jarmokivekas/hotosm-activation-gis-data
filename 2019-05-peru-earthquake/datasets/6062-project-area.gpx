@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="-6.739720533538960" minlon="-76.244436606952334" maxlat="-6.677419176439338" maxlon="-76.192099023925905"/></metadata>                
+<trk>
+  <trkseg>
+    <trkpt lat="-6.68994471375169" lon="-76.197322557584954">
+    </trkpt>
+    <trkpt lat="-6.69344483514988" lon="-76.1930151628396">
+    </trkpt>
+    <trkpt lat="-6.7137973742433" lon="-76.192099023925905">
+    </trkpt>
+    <trkpt lat="-6.72926053845059" lon="-76.198624522261497">
+    </trkpt>
+    <trkpt lat="-6.73642319187512" lon="-76.203776231473896">
+    </trkpt>
+    <trkpt lat="-6.73972053353896" lon="-76.212705860775301">
+    </trkpt>
+    <trkpt lat="-6.736531343209664" lon="-76.222183124612073">
+    </trkpt>
+    <trkpt lat="-6.736659511323077" lon="-76.244436606952334">
+    </trkpt>
+    <trkpt lat="-6.677419176439338" lon="-76.244250205221277">
+    </trkpt>
+    <trkpt lat="-6.677666026090237" lon="-76.197401236820269">
+    </trkpt>
+    <trkpt lat="-6.68994471375169" lon="-76.197322557584954">
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
