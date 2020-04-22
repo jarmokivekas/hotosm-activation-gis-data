@@ -4,7 +4,7 @@ all: update clean publish
 update: run clean
 
 run:
-	jupyter nbconvert --to=html --output=index.html --no-input --execute TM-8301-report.ipynb
+	jupyter nbconvert --to=html --output=index.html --no-input --no-prompt --execute TM-8301-report.ipynb
 
 publish:
 	git add .
