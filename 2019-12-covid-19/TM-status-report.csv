@@ -30,10 +30,10 @@ projectId,name,percentMapped,percentValidated,priority,status,campaignTag,hyperl
 8219,"COVID-19 - Acomayo, Cusco, Peru",61,7,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8219
 8232,COVID-19_Sri Lanka_Akurana area,83,80,HIGH,PUBLISHED,,https://tasks.hotosm.org/project/8232
 8248,"COVID-19 - Ccatca, Cusco, Peru",6,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8248
-8249,"COVID-19 - Ccorca, Cusco, Peru",48,1,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8249
+8249,"COVID-19 - Ccorca, Cusco, Peru",85,1,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8249
 8250,"COVID-19 - Cusipata, Cusco, Peru",100,19,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8250
 8251,"COVID-19 - Huarocondo, Cusco, Peru",97,10,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8251
-8254,"COVID-19 - Huayllabamba, Cusco, Peru",91,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8254
+8254,"COVID-19 - Huayllabamba, Cusco, Peru",92,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8254
 8255,"COVID-19 - Lamay, Cusco, Peru",8,7,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8255
 8256,"COVID-19 - Lares, Cusco, Peru",23,2,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8256
 8257,"COVID-19 - Machupicchu, Cusco, Peru",96,99,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8257
@@ -51,15 +51,18 @@ projectId,name,percentMapped,percentValidated,priority,status,campaignTag,hyperl
 8276,"COVID-19 - Ocoruro, Cusco, Peru",99,54,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8276
 8280,"COVID-19 - Quiñota, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8280
 8281,"COVID-19 - Suyckutambo, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8281
-8282,"COVID-19 - Cachimayo, Cusco, Peru",99,3,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8282
+8282,"COVID-19 - Cachimayo, Cusco, Peru",100,11,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8282
 8301,"Cusco Region, Peru places mapping",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8301
-8307,"COVID-19 - Yanatile 2, Cusco, Peru",13,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8307
+8307,"COVID-19 - Yanatile 2, Cusco, Peru",14,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8307
 8308,"COVID-19 - Vilcabamba 1, Cusco, Peru",62,18,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8308
 8309,"COVID-19 - Vilcabamba 2, Cusco, Peru",8,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8309
 8310,"COVID-19 - Coporaque 1, Cusco, Peru",9,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8310
 8311,"COVID-19 - Coporaque 2, Cusco, Peru",99,16,URGENT,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8311
-8385,HOTPH-UP Covid-19 Response (QC #1),51,2,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8385
-8386,HOTPH-UP Covid-19 Response (QC #2),60,1,URGENT,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8386
-8398,"COVID-19 - Ancahausi, Cusco, Peru",92,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8398
+8385,HOTPH-UP Covid-19 Response (QC #1),54,2,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8385
+8386,HOTPH-UP Covid-19 Response (QC #2),62,1,URGENT,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8386
+8398,"COVID-19 - Ancahausi, Cusco, Peru",96,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8398
 8400,"COVID-19 - Caicay, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8400
 8401,"COVID-19 - Ccarhuayo, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8401
+8469,"COVID-19 - Gao - Gao, Mali",1,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8469
+8470,"COVID-19 - Kati - Koulikoro, Mali",0,0,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8470
+8471,"COVID-19 - Koutiala Surroundings - Sikasso, Mali",0,0,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8471
