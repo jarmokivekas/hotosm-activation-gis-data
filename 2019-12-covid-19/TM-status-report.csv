@@ -42,15 +42,15 @@ projectId,name,percentMapped,percentValidated,priority,status,campaignTag,hyperl
 8262,"COVID-19 - Quiquijana, Cusco, Peru",48,27,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8262
 8268,"COVID-19 - Alto Pichigua, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8268
 8269,"COVID-19 - Capacmarca, Cusco, Peru",100,28,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8269
-8270,"COVID-19 - Colquemarca, Cusco, Peru",89,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8270
+8270,"COVID-19 - Colquemarca, Cusco, Peru",96,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8270
 8271,"COVID-19 - Condoroma, Cusco, Peru",100,77,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8271
 8272,"COVID-19 - Huayopata, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8272
 8273,"COVID-19 - Kimbiri, Cusco, Peru",100,49,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8273
-8274,"COVID-19 - Llusco, Cusco, Peru",8,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8274
+8274,"COVID-19 - Llusco, Cusco, Peru",9,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8274
 8275,"COVID-19 - Maranura, Cusco, Peru",78,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8275
 8276,"COVID-19 - Ocoruro, Cusco, Peru",99,54,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8276
-8280,"COVID-19 - Quiñota, Cusco, Peru",19,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8280
-8281,"COVID-19 - Suyckutambo, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8281
+8280,"COVID-19 - Quiñota, Cusco, Peru",36,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8280
+8281,"COVID-19 - Suyckutambo, Cusco, Peru",1,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8281
 8282,"COVID-19 - Cachimayo, Cusco, Peru",100,15,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8282
 8301,"Cusco Region, Peru places mapping",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8301
 8307,"COVID-19 - Yanatile 2, Cusco, Peru",57,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8307
@@ -60,13 +60,13 @@ projectId,name,percentMapped,percentValidated,priority,status,campaignTag,hyperl
 8311,"COVID-19 - Coporaque 2, Cusco, Peru",99,16,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8311
 8385,HOTPH-UP Covid-19 Response (QC #1),65,4,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8385
 8386,HOTPH-UP Covid-19 Response (QC #2),67,3,URGENT,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8386
-8398,"COVID-19 - Ancahausi, Cusco, Peru",100,13,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8398
+8398,"COVID-19 - Ancahausi, Cusco, Peru",100,18,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8398
 8400,"COVID-19 - Caicay, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8400
 8401,"COVID-19 - Ccarhuayo, Cusco, Peru",1,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8401
 8403,"COVID-19 - Challabamba, Cusco, Peru",99,12,URGENT,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8403
-8406,"COVID-19 - Checacupe, Cusco, Peru",51,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8406
+8406,"COVID-19 - Checacupe, Cusco, Peru",78,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8406
 8408,"COVID-19 - Checca, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8408
 8409,"COVID-19 - Chinchaypujio, Cusco, Peru",0,0,LOW,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8409
-8469,"COVID-19 - Gao - Gao, Mali",34,0,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8469
+8469,"COVID-19 - Gao - Gao, Mali",34,4,HIGH,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8469
 8470,"COVID-19 - Kati - Koulikoro, Mali",0,0,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8470
-8471,"COVID-19 - Koutiala Surroundings - Sikasso, Mali",18,0,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8471
+8471,"COVID-19 - Koutiala Surroundings - Sikasso, Mali",47,0,MEDIUM,PUBLISHED,COVID-19,https://tasks.hotosm.org/project/8471
