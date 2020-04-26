@@ -2,7 +2,7 @@
 all: update publish
 
 update:
-	jupyter nbconvert --to=html --no-input --ExecutePreprocessor.enabled=True TM-status-report.ipynb
+	jupyter nbconvert --to=html --no-prompt --no-input --execute TM-status-report.ipynb
 
 publish:
 	git add .
