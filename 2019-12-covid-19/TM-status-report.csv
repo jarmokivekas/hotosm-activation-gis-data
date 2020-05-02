@@ -1,19 +1,19 @@
 projectId,name,percentMapped,percentValidated,priority,status,age(days),projectArea(in sq.km),createdBy,organisationTag,campaignTag,entitiesToMap,hyperlink
 813,Mali - [Projets de Cartographie systématique - réseau routier principal vs référence open data],10,0,LOW,ARCHIVED,1966,160304,SeverinGeo,OSM Mali,#BaseRoadsVsOpenData,"Roads, residential areas",https://tasks.hotosm.org/project/813
 5909,"COVID-19, Quehue, Anna, Cusco Peru",98,98,LOW,PUBLISHED,390,148,Kateregga1,Gal School Peru,COVID-19,"buildings, roads, waterways",https://tasks.hotosm.org/project/5909
-7372,"COVID-19 - Paucartambo 1, Cusco, Peru",99,48,LOW,PUBLISHED,159,2660,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/7372
+7372,"COVID-19 - Paucartambo 1, Cusco, Peru",99,49,LOW,PUBLISHED,159,2660,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/7372
 7379,"COVID-19 Yaurisque District, Cusco - Peru",100,100,LOW,ARCHIVED,157,100,Kateregga1,Gal School Peru,COVID-19,"buildings, roads, waterways",https://tasks.hotosm.org/project/7379
 7719,"COVID-19 - Chinchero - Urubamba, Peru",99,100,LOW,ARCHIVED,106,102,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7719
 7720,"COVID-19 - Yucay, Cusco, Peru",90,90,LOW,ARCHIVED,106,23,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7720
 7721,"COVID-19 - Coya - Calca, Peru",98,98,LOW,ARCHIVED,106,70,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7721
-7768,"COVID-19 - Chamaca - Chumbivilcas, Peru",96,99,LOW,PUBLISHED,99,674,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7768
-7769,"COVID-19 - Saylla - Cusco , Peru",95,100,LOW,ARCHIVED,99,24,Kateregga1,Gal School Peru,,buildings,https://tasks.hotosm.org/project/7769
-7770,"COVID-19 San Jeronimo - Cusco , Peru",94,95,LOW,PUBLISHED,99,95,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7770
-7968,"COVID-19 - Andahuaylillas - Quispicanchi, Peru",87,97,LOW,PUBLISHED,74,85,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7968
-7969,"COVID-19 Huaro - Quispicanchi, Peru",92,97,LOW,ARCHIVED,74,108,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7969
-7970,"COVID-19 Lucre - Quispicanchi, Peru",100,100,LOW,PUBLISHED,74,118,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7970
-7971,"COVID-19 Oropesa - Quispicanchi, Peru",90,99,LOW,ARCHIVED,74,78,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7971
-7972,"COVID-19 - Urcos - Quispicanchi, Peru",99,100,LOW,ARCHIVED,74,140,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7972
+7768,"COVID-19 - Chamaca - Chumbivilcas, Peru",96,99,LOW,PUBLISHED,100,674,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7768
+7769,"COVID-19 - Saylla - Cusco , Peru",95,100,LOW,ARCHIVED,100,24,Kateregga1,Gal School Peru,,buildings,https://tasks.hotosm.org/project/7769
+7770,"COVID-19 San Jeronimo - Cusco , Peru",94,95,LOW,PUBLISHED,100,95,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7770
+7968,"COVID-19 - Andahuaylillas - Quispicanchi, Peru",87,97,LOW,PUBLISHED,75,85,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7968
+7969,"COVID-19 Huaro - Quispicanchi, Peru",92,97,LOW,ARCHIVED,75,108,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7969
+7970,"COVID-19 Lucre - Quispicanchi, Peru",100,100,LOW,PUBLISHED,75,118,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7970
+7971,"COVID-19 Oropesa - Quispicanchi, Peru",90,99,LOW,ARCHIVED,75,78,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7971
+7972,"COVID-19 - Urcos - Quispicanchi, Peru",99,100,LOW,ARCHIVED,75,140,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/7972
 8047,"COVID-19 - Santa Teresa, La Convención, Peru",98,99,LOW,ARCHIVED,66,1329,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/8047
 8048,"COVID-19 - Ccapi - Paruro, Peru",99,100,LOW,ARCHIVED,66,325,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/8048
 8049,"COVID-19 Omacha - Paruro, Peru",98,83,LOW,PUBLISHED,66,427,Kateregga1,Gal School Peru,COVID-19,buildings,https://tasks.hotosm.org/project/8049
@@ -46,7 +46,7 @@ projectId,name,percentMapped,percentValidated,priority,status,age(days),projectA
 8248,"COVID-19 - Ccatca, Cusco, Peru",10,0,LOW,PUBLISHED,31,296,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8248
 8249,"COVID-19 - Ccorca, Cusco, Peru",100,1,LOW,PUBLISHED,31,161,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8249
 8250,"COVID-19 - Cusipata, Cusco, Peru",100,35,LOW,PUBLISHED,31,242,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8250
-8251,"COVID-19 - Huarocondo, Cusco, Peru",98,20,LOW,PUBLISHED,31,220,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8251
+8251,"COVID-19 - Huarocondo, Cusco, Peru",98,27,LOW,PUBLISHED,31,220,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8251
 8254,"COVID-19 - Huayllabamba, Cusco, Peru",99,36,LOW,PUBLISHED,31,76,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8254
 8255,"COVID-19 - Lamay, Cusco, Peru",77,7,LOW,PUBLISHED,31,95,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8255
 8256,"COVID-19 - Lares, Cusco, Peru",63,4,LOW,PUBLISHED,31,731,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8256
@@ -57,7 +57,7 @@ projectId,name,percentMapped,percentValidated,priority,status,age(days),projectA
 8261,"COVID-19 - Poroy, Cusco, Peru",51,0,LOW,PUBLISHED,31,13,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8261
 8262,"COVID-19 - Quiquijana, Cusco, Peru",65,51,LOW,PUBLISHED,31,364,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8262
 8268,"COVID-19 - Alto Pichigua, Cusco, Peru",81,0,LOW,PUBLISHED,28,359,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8268
-8269,"COVID-19 - Capacmarca, Cusco, Peru",99,57,LOW,PUBLISHED,28,267,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8269
+8269,"COVID-19 - Capacmarca, Cusco, Peru",99,60,LOW,PUBLISHED,28,267,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8269
 8270,"COVID-19 - Colquemarca, Cusco, Peru",96,66,LOW,PUBLISHED,28,452,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8270
 8271,"COVID-19 - Condoroma, Cusco, Peru",101,98,LOW,PUBLISHED,28,515,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8271
 8272,"COVID-19 - Huayopata, Cusco, Peru",24,0,LOW,PUBLISHED,28,530,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8272
@@ -75,25 +75,25 @@ projectId,name,percentMapped,percentValidated,priority,status,age(days),projectA
 8309,"COVID-19 - Vilcabamba 2, Cusco, Peru",56,0,LOW,PUBLISHED,18,1230,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8309
 8310,"COVID-19 - Coporaque 1, Cusco, Peru",25,0,LOW,PUBLISHED,18,816,Kateregga1,Gal School Peru,COVID-19,,https://tasks.hotosm.org/project/8310
 8311,"COVID-19 - Coporaque 2, Cusco, Peru",99,17,MEDIUM,PUBLISHED,18,726,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8311
-8317,#URBELatam #Covid-19 Mapping for Equitable Resilience in Morro do Preventório,0,0,LOW,PUBLISHED,16,0,uphil,#URBELatam,,"Buildings, Roads, Pathways",https://tasks.hotosm.org/project/8317
-8385,HOTPH-UP Covid-19 Response (QC #1),79,60,HIGH,PUBLISHED,12,97,feyeandal,HOT Philippines,COVID-19,buildings,https://tasks.hotosm.org/project/8385
-8386,HOTPH-UP Covid-19 Response (QC #2),90,55,URGENT,PUBLISHED,12,64,feyeandal,HOT Philippines,COVID-19,buildings,https://tasks.hotosm.org/project/8386
-8398,"COVID-19 - Ancahausi, Cusco, Peru",100,51,MEDIUM,PUBLISHED,11,124,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8398
-8400,"COVID-19 - Caicay, Cusco, Peru",0,0,LOW,PUBLISHED,11,106,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8400
-8401,"COVID-19 - Ccarhuayo, Cusco, Peru",14,0,MEDIUM,PUBLISHED,11,303,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8401
-8403,"COVID-19 - Challabamba, Cusco, Peru",99,21,MEDIUM,PUBLISHED,11,714,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8403
-8406,"COVID-19 - Checacupe, Cusco, Peru",99,47,HIGH,PUBLISHED,11,936,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8406
-8408,"COVID-19 - Checca, Cusco, Peru",23,6,LOW,PUBLISHED,11,504,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8408
-8409,"COVID-19 - Chinchaypujio, Cusco, Peru",3,0,LOW,PUBLISHED,11,395,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8409
-8420,"COVID-19 - Layo, Cusco, Peru",25,0,LOW,PUBLISHED,11,425,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8420
-8421,"COVID-19 - Limatambo, Cusco, Peru",44,0,LOW,PUBLISHED,11,505,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8421
-8422,"COVID-19 - Mollepata, Cusco, Peru",100,21,LOW,PUBLISHED,11,369,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8422
-8423,"COVID-19 - Mosoc Llacta, Cusco, Peru",79,0,MEDIUM,PUBLISHED,11,71,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8423
+8317,#URBELatam #Covid-19 Mapping for Equitable Resilience in Morro do Preventório,0,0,LOW,PUBLISHED,17,0,uphil,#URBELatam,,"Buildings, Roads, Pathways",https://tasks.hotosm.org/project/8317
+8385,HOTPH-UP Covid-19 Response (QC #1),79,59,HIGH,PUBLISHED,12,97,feyeandal,HOT Philippines,COVID-19,buildings,https://tasks.hotosm.org/project/8385
+8386,HOTPH-UP Covid-19 Response (QC #2),90,57,URGENT,PUBLISHED,12,64,feyeandal,HOT Philippines,COVID-19,buildings,https://tasks.hotosm.org/project/8386
+8398,"COVID-19 - Ancahausi, Cusco, Peru",100,51,MEDIUM,PUBLISHED,12,124,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8398
+8400,"COVID-19 - Caicay, Cusco, Peru",0,0,LOW,PUBLISHED,12,106,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8400
+8401,"COVID-19 - Ccarhuayo, Cusco, Peru",14,0,MEDIUM,PUBLISHED,12,303,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8401
+8403,"COVID-19 - Challabamba, Cusco, Peru",99,21,MEDIUM,PUBLISHED,12,714,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8403
+8406,"COVID-19 - Checacupe, Cusco, Peru",99,48,HIGH,PUBLISHED,12,936,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8406
+8408,"COVID-19 - Checca, Cusco, Peru",23,6,LOW,PUBLISHED,12,504,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8408
+8409,"COVID-19 - Chinchaypujio, Cusco, Peru",3,0,LOW,PUBLISHED,12,395,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8409
+8420,"COVID-19 - Layo, Cusco, Peru",25,0,LOW,PUBLISHED,12,425,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8420
+8421,"COVID-19 - Limatambo, Cusco, Peru",44,0,LOW,PUBLISHED,12,505,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8421
+8422,"COVID-19 - Mollepata, Cusco, Peru",100,21,LOW,PUBLISHED,12,369,Kateregga1,Gal School Peru,COVID-19,"buildings, roads",https://tasks.hotosm.org/project/8422
+8423,"COVID-19 - Mosoc Llacta, Cusco, Peru",80,0,MEDIUM,PUBLISHED,12,71,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8423
 8447,"COVID-19 - Pomacanchi, Cusco, Peru",1,0,LOW,PUBLISHED,11,267,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8447
 8449,"COVID-19 - Randocan, Cusco, Peru",0,0,LOW,PUBLISHED,11,183,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8449
-8452,"COVID-19 - Sangarara, Cusco, Peru",36,0,MEDIUM,PUBLISHED,11,86,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8452
+8452,"COVID-19 - Sangarara, Cusco, Peru",53,0,MEDIUM,PUBLISHED,11,86,Kateregga1,Gal School Peru,COVID-19,"buildings(edificios), roads(carreteras)",https://tasks.hotosm.org/project/8452
 8469,"COVID-19 - Gao - Gao, Mali",99,9,HIGH,PUBLISHED,9,36,russdeffner,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8469
-8470,"COVID-19 - Kati - Koulikoro, Mali",26,0,MEDIUM,PUBLISHED,9,62,russdeffner,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8470
+8470,"COVID-19 - Kati - Koulikoro, Mali",29,0,MEDIUM,PUBLISHED,9,62,russdeffner,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8470
 8471,"COVID-19 - Koutiala Surroundings - Sikasso, Mali",99,99,LOW,PUBLISHED,9,234,russdeffner,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8471
-8512,"COVID-19 - Mogoditshane - Gaborone District, Botswana",52,1,LOW,PUBLISHED,4,65,jessbeutler,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8512
-8547,"Population Displacement: Mapping buildings in #Marib, #Yemen",66,0,HIGH,PUBLISHED,2,309,yvazquez,Satellite Applications Catapult,Mapping Yemen,Buildings,https://tasks.hotosm.org/project/8547
+8512,"COVID-19 - Mogoditshane - Gaborone District, Botswana",54,1,LOW,PUBLISHED,5,65,jessbeutler,HOT,COVID-19,Buildings,https://tasks.hotosm.org/project/8512
+8547,"Population Displacement: Mapping buildings in #Marib, #Yemen",76,0,HIGH,PUBLISHED,2,309,yvazquez,Satellite Applications Catapult,Mapping Yemen,Buildings,https://tasks.hotosm.org/project/8547
